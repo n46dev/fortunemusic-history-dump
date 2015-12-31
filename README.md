@@ -43,6 +43,9 @@ $ ./fortunemusic-history-dump.js example@example.org abracadabra | grep '齋藤�
 > 齋藤飛鳥    13th シングル 2/28 京都 2  8      8      ¥8400
 > ...
 ```
+## Screenshot
+
+![](fortunemusic-history-dump.png)
 
 ## License
 
